@@ -1,3 +1,9 @@
+# Install Angular and create sample project
+1. Download Node version 14.x from here [NodeJs 14.x][https://nodejs.org/en/blog/release/v14.4.0/]
+1. Install Angular with the command `npm install -g @angular/cli@1.7.4`
+1. Create project using `ng new <project-name>`
+1. Run the project using `ng serve --open`
+
 # Angularclient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
